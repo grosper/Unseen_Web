@@ -1,0 +1,207 @@
+@charset "UTF-8";
+#form {
+	position: absolute;
+	top: 20%;
+	left: 30%;
+	color: #38A2B5;
+	font-family: kelly-slab;
+	font-weight: 400;
+	font-size: 2.5em;
+	font-style: normal;
+	display: block;
+	right: auto;
+	letter-spacing: normal;
+	word-spacing: 0px;
+	text-align: left;
+	text-shadow: -4px 5px 2px #000000;
+	-webkit-box-shadow: 0 0;
+	box-shadow: 0 0;
+}
+#CAR1 {
+	position: absolute;
+	top: 50%;
+	right: 50%;
+	left: 50%;
+	bottom: 50%;
+}
+#article1 {
+	position: absolute;
+	top: 40%;
+	left: 51%;
+	font-family: kelly-slab;
+	font-style: normal;
+	font-weight: 400;
+	color: #04E4FA;
+	font-size: large;
+	right: 10%;
+}
+#bg {
+	position: relative;
+}
+#about {
+	color: #0DDDFA;
+	font-family: kelly-slab;
+	font-style: normal;
+	font-weight: 400;
+	position: absolute;
+	top: 25%;
+	left: 50%;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+}
+
+@media screen and (min-width:649px) and (max-width:950px){
+#lake h1 {
+	font-size: 2em;
+	}
+}
+
+.navbar-default {
+	background-color: #698490;
+	border-color: #698490;
+	font-family: kelly-slab;
+	font-style: normal;
+	font-weight: 400;
+}
+.navbar-default .navbar-brand {
+	color: #FFFFFF;
+	background-image: url(../images/Soldier-Side_notext.png);
+	background-repeat: no-repeat;
+	background-size: 38px auto;
+	padding-left: 60px;
+	background-position: 10% 0%;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+	color: #00e9ff;
+	font-family: kelly-slab;
+	font-style: normal;
+	font-weight: 400;
+}
+.container-fluid .navbar-header .navbar-brand {
+}
+#logo {
+}
+.navbar-default .navbar-text {
+  color: #000000;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #00e9ff;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu {
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a {
+  color: #000000;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
+  color: #00e9ff;
+  background-color: #000000;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li.divider {
+  background-color: #000000;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #00e9ff;
+  background-color: #000000;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #00e9ff;
+  background-color: #000000;
+}
+.navbar-default .navbar-toggle {
+  border-color: #000000;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #000000;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #000000;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #000000;
+}
+.navbar-default .navbar-link {
+  color: #000000;
+}
+.navbar-default .navbar-link:hover {
+  color: #00e9ff;
+}
+.container-fluid .row .img-responsive {
+}
+#smoke1 {
+	width: 100%;
+	opacity: 1;
+	z-index: -100;
+	left: 0px;
+	top: 0px;
+	display: block;
+	position: static;
+}
+form format {
+	position: absolute;
+}
+
+
+@media (max-width:649px){
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #000000;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #00e9ff;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+	color: #00E5FA;
+	background-color: #000000;
+  }
+.navbar-toggle {
+	color: #FFFFFF;
+}
+#lake h1 {
+	font-size: 2em;
+	bottom: 0px;
+}
+#aboutsmall {
+	font-size: 1.5em;
+	color: #06E4FA;
+	position: absolute;
+	top: 21%;
+	left: 50%;
+}
+#article1small {
+	position: absolute;
+	top: 33%;
+	left: 50%;
+	color: #06E4FA;
+	font-family: kelly-slab;
+	font-style: normal;
+	font-weight: 400;
+}
+}
+#lake {
+	position: relative;
+}
+#lake h1 {
+	position: absolute;
+	color: #FFFFFF;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 4em;
+	text-shadow: 2px 2px 5px #5D5D5D;
+	left: 8%;
+	bottom: 9%;
+}
